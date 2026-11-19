@@ -1,0 +1,6 @@
+# Only the bot, its docs and dependencies are tracked; screenshots, logs and experiments stay local.
+*
+!.gitignore
+!bot.py
+!README.md
+!requirements.txt
